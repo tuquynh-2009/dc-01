@@ -1,0 +1,287 @@
+{
+    "Mon": "hehe",
+    "QA": [
+        {
+            "Q": "Tên gọi của chất có công thức \\( CH_4 \\) là",
+            "A": "propanee.",
+            "B": "pentanee.",
+            "C": "methane.",
+            "D": "hexane.",
+            "True": "C"
+        },
+        {
+            "Q": "Alkylen là những hiđrocacbon không no, mạch hở, có công thức chung là",
+            "A": "\\( CnH_{2n-2}(n \\geq 2) \\).",
+            "B": "\\( CnH_{2n-6}(n \\geq 6) \\).",
+            "C": "\\( CnH_{2n+2}(n \\geq 1) \\).",
+            "D": "\\( CnH_{2n}(n \\geq 2) \\).",
+            "True": "A"
+        },
+        {
+            "Q": "Thành phần chính của khí thiên nhiên là",
+            "A": "\\( N_2 \\).",
+            "B": "\\( NH_3 \\).",
+            "C": "\\( CH_4 \\).",
+            "D": "\\( CO_2 \\).",
+            "True": "C"
+        },
+        {
+            "Q": "Alkene là những hiđrocacbon có đặc điểm là",
+            "A": "no, mạch vòng.",
+            "B": "không no, mạch hở, có một liên kết ba \\( C=C \\).",
+            "C": "không no, mạch hở, có một liên kết đôi \\( C=C \\).",
+            "D": "không no, mạch vòng, có một liên kết đôi \\( C=C \\).",
+            "True": "C"
+        },
+        {
+            "Q": "Ở điều kiện thường, các alkene và alkyne từ \\( C2 \\) đến \\( C4 \\) (trừ but – 2 yne) ở thể",
+            "A": "khí.",
+            "B": "lỏng.",
+            "C": "rắn.",
+            "D": "dung dịch.",
+            "True": "A"
+        },
+        {
+            "Q": "Alkane là những hiđrocacbon no, mạch hở, có công thức chung là",
+            "A": "\\( CnH_{2n+2} \\) (\\( n \\geq 1 \\)).",
+            "B": "\\( CnH_{2n-2} \\) (\\( n \\geq 2 \\)).",
+            "C": "\\( CnH_{2n-6} \\) (\\( n \\geq 6 \\)).",
+            "D": "\\( CnH_{2n-2} \\) (\\( n \\geq 2 \\)).",
+            "True": "A"
+        },
+        {
+            "Q": "Dãy đồng đẳng của benzene có công thức chung là",
+            "A": "\\( CnH_{2n+2} \\) (\\( n \\geq 2 \\)).",
+            "B": "\\( CnH_{2n-6} \\) (\\( n \\geq 6 \\)).",
+            "C": "\\( CnH_{2n-3} \\) (\\( n \\geq 6 \\)).",
+            "D": "\\( CnH_{2n-2} \\) (\\( n \\geq 2 \\)).",
+            "True": "B"
+        },
+        {
+            "Q": "Ở điều kiện thường hiđrocacbon ở thể lỏng là",
+            "A": "\\( C_5H_{11} \\).",
+            "B": "\\( C_2H_6 \\).",
+            "C": "\\( C_4H_{10} \\).",
+            "D": "\\( C_3H_8 \\).",
+            "True": "A"
+        },
+        {
+            "Q": "Chất không có đồng phân hình học là",
+            "A": "\\( CH_3CH=CHCH_2CH_3 \\).",
+            "B": "\\( CH_3CH=CH(CH_3)_2 \\).",
+            "C": "\\( CH_3CH=CHCH_3 \\).",
+            "D": "\\( CH_3CH_2CH_2CH_3 \\).",
+            "True": "D"
+        },
+        {
+            "Q": "Arene hay còn gọi là hiđrocarbon thơm là những hiđrocarbon trong phân tử có chứa một hay nhiều",
+            "A": "vòng benzene.",
+            "B": "liên kết đơn.",
+            "C": "liên kết đôi.",
+            "D": "liên kết ba.",
+            "True": "A"
+        },
+        {
+            "Q": "Chất hầu như không tan trong nước là",
+            "A": "\\( CH_3OH \\).",
+            "B": "\\( C_2H_5OH \\).",
+            "C": "\\( CH_3COOH \\).",
+            "D": "\\( C_2H_5Cl \\).",
+            "True": "D"
+        },
+        {
+            "Q": "Hợp chất thuộc loại dẫn xuất halogen của hiđrocarbon là",
+            "A": "\\( HI0_4 \\).",
+            "B": "\\( C_6H_6O \\).",
+            "C": "\\( CH_3Br \\).",
+            "D": "\\( CH_3N \\).",
+            "True": "C"
+        },
+        {
+            "Q": "Hiện nay, các hợp chất CFC (chlorofluorocarbon) đang được hạn chế sử dụng và bị cấm sản xuất trên phạm vi toàn thế giới vì ngoài gây hiệu ứng nhà kính chúng còn gây ra hiện tượng",
+            "A": "ô nhiễm môi trường nước.",
+            "B": "ô nhiễm môi trường đất.",
+            "C": "suy giảm tầng ozon.",
+            "D": "mưa axit.",
+            "True": "C"
+        },
+        {
+            "Q": "Toluene có công thức là",
+            "A": "\\( C_6H_5CHBrCH_3 \\).",
+            "B": "\\( C_6H_5CH_2Br \\).",
+            "C": "\\( C_6H_5CH_2CH_2Br \\).",
+            "D": "\\( C_6H_5CH_2CH_3 \\).",
+            "True": "D"
+        },
+        {
+            "Q": "Số nguyên tử cacbon trong phân tử benzene là",
+            "A": "6.",
+            "B": "2.",
+            "C": "4.",
+            "D": "8.",
+            "True": "A"
+        },
+        {
+            "Q": "Phân tử đặc trưng của alkene và alkyne là phân tử nào sau đây?",
+            "A": "tách.",
+            "B": "cộng.",
+            "C": "oxi hóa.",
+            "D": "thế.",
+            "True": "B"
+        },
+        {
+            "Q": "Sục khí acetylene vào dd AgNO\\(_3\\)/NH\\(_3\\) xảy ra hiện tượng là",
+            "A": "Xuất hiện kết tủa trắng.",
+            "B": "Xuất hiện kết tủa đen.",
+            "C": "Không có hiện tượng gì xảy ra.",
+            "D": "Xuất hiện kết tủa vàng nhạt.",
+            "True": "D"
+        },
+        {
+            "Q": "Thực hiện phân tử của acetylene với \\( H_2 \\) có chất xúc tác Ni, tạo được",
+            "A": "ethylene.",
+            "B": "ethane.",
+            "C": "acetylene.",
+            "D": "ethene.",
+            "True": "B"
+        },
+        {
+            "Q": "Hiđrocacbon X có công thức phân tử là \\( C_5H_{12} \\), biết khi tác dụng với clo tạo được 1 dẫn xuất monoclo. Tên của X là",
+            "A": "2 - methylpentane.",
+            "B": "3 - methylbutane.",
+            "C": "Pentane.",
+            "D": "2, 2 - dimethylpropane.",
+            "True": "D"
+        },
+        {
+            "Q": "Hoạt tính sinh học của benzene, toluene là",
+            "A": "không gây hại cho sức khỏe.",
+            "B": "gây ảnh hưởng tốt cho sức khỏe.",
+            "C": "gây hại cho sức khỏe.",
+            "D": "tùy thuộc vào nhiệt độ có thể gây hại hoặc không gây hại.",
+            "True": "C"
+        },
+        {
+            "Q": "Khi cho but-1-ene tác dụng với dung dịch HBr, theo quy tắc Macccophnicop thu được sản phẩm chính là",
+            "A": "\\( CH_2Br-CH_2-CH_2CH_2Br \\).",
+            "B": "\\( CH_3-CH_2-CHBr-CH_2Br \\).",
+            "C": "\\( CH_3-CH_2-CHBr-CH_2Br \\).",
+            "D": "\\( CH_3-CH_2-CH_2Br \\).",
+            "True": "D"
+        },
+        {
+            "Q": "Alkane X có công thức phân tử \\( C_3H_8 \\). Số liên kết đơn của X là",
+            "A": "11.",
+            "B": "8.",
+            "C": "10.",
+            "D": "3.",
+            "True": "C"
+        },
+        {
+            "Q": "Để phân biệt benzene, toluene, styrene ta chỉ dùng 1 thuốc thử duy nhất là",
+            "A": "dung dịch Br\\(_2\\) hoặc dung dịch KMnO\\(_4\\).",
+            "B": "dung dịch Br\\(_2\\).",
+            "C": "Br\\(_2\\) (xúc tác FeBr\\(_3\\)).",
+            "D": "dung dịch KMnO\\(_4\\).",
+            "True": "D"
+        },
+        {
+            "Q": "Cho benzene tác dụng với Cl\\(_2\\) (điều kiện ánh sáng), thu được dẫn xuất clo X. CTPT của X là",
+            "A": "m-C\\(_6\\)H\\(_4\\)Cl\\(_2\\).",
+            "B": "p-C\\(_6\\)H\\(_4\\)Cl\\(_2\\).",
+            "C": "\\( C_6H_6Cl_6 \\).",
+            "D": "\\( C_6H_5Cl \\).",
+            "True": "C"
+        },
+        {
+            "Q": "Phân tử có số liên kết \\(\\sigma\\) và liên kết \\(\\pi\\) tương ứng là 5 và 1 là",
+            "A": "\\( CH_4 \\).",
+            "B": "\\( C_2H_2 \\).",
+            "C": "\\( C_2H_6 \\).",
+            "D": "\\( C_2H_4 \\).",
+            "True": "D"
+        },
+        {
+            "Q": "Một hợp chất hữu cơ Z có % khối lượng của C, H, Cl lần lượt là : 14,28% ; 1,19% ; 84,53%, biết \\( M_Z = 168(g/mol) \\). Vậy CTPT của Z là",
+            "A": "\\( CHCl_2 \\).",
+            "B": "\\( C_2H_4Cl_2 \\).",
+            "C": "\\( C_2H_2Cl_4 \\).",
+            "D": "một kết quả khác.",
+            "True": "C"
+        },
+        {
+            "Q": "Cracking Pentane thu được số sản phẩm là",
+            "A": "7.",
+            "B": "6.",
+            "C": "5.",
+            "D": "4.",
+            "True": "B"
+        },
+        {
+            "Q": "Trong các cặp chất phân ứng sau, cặp chất xảy ra phản ứng hóa học là",
+            "A": "\\( C_2H_5OH + MgO \\).",
+            "B": "\\( C_2H_5OH + NaOH \\).",
+            "C": "\\( C_2H_5OH + H_2O \\).",
+            "D": "\\( C_2H_5OH + HBr \\).",
+            "True": "D"
+        },
+        {
+            "Q": "Cho các phát biểu sau về dẫn xuất halogen, phát biểu nào đúng, phát biểu nào sai?\nA) Hợp chất CFC (chlorofluorocarbon) ngoài gây hiệu ứng nhà kính, chúng còn gây ra hiện tượng suy giảm tầng ozon.\nB) Halothane CF₃-CHClBr là được sử dụng để gây tê tức thời cho các vận động viên khi bị chấn thương.\nC) Tách HX từ dẫn xuất halogen luôn thu được alkene.\nD) Khi thay thế I hoặc nhiều nguyên tử H trong phân tử hydrocarbon bằng các nguyên tử halogen thu được các dẫn xuất halogen.",
+            "type": "true_false_set",
+            "questions": [
+                {
+                    "text": "Hợp chất CFC (chlorofluorocarbon) ngoài gây hiệu ứng nhà kính, chúng còn gây ra hiện tượng suy giảm tầng ozon.",
+                    "correct": true
+                },
+                {
+                    "text": "Halothane CF₃-CHClBr là được sử dụng để gây tê tức thời cho các vận động viên khi bị chấn thương.",
+                    "correct": false
+                },
+                {
+                    "text": "Tách HX từ dẫn xuất halogen luôn thu được alkene.",
+                    "correct": false
+                },
+                {
+                    "text": "Khi thay thế I hoặc nhiều nguyên tử H trong phân tử hydrocarbon bằng các nguyên tử halogen thu được các dẫn xuất halogen.",
+                    "correct": false
+                }
+            ],
+            "True": "T"
+        },
+        {
+            "Q": "Cho các phát biểu sau về Hydrocarbon không no, phát biểu nào đúng, phát biểu nào sai?\nA) Các alkene và alkyne là các hydrocarbon không no để tham gia phản ứng cộng, trùng hợp, oxi hóa.\nB) Thuốc thử Tollens là diaminesilver (I) hydroxide : [Ag(NH₃)₂]OH là thuốc thử dùng để phân biệt Alkene và alkyne.\nC) O điều kiện thường, tất cả alkene, alkyne (trừ but-2-yne) từ C₄ ở thể khí.\nD) Công thức tổng quát của alkene là CnH₂n (n ≥ 2) và của alkyne là CnH₂n-2 (n ≥ 2).",
+            "type": "true_false_set",
+            "questions": [
+                {
+                    "text": "Các alkene và alkyne là các hydrocarbon không no để tham gia phản ứng cộng, trùng hợp, oxi hóa.",
+                    "correct": true
+                },
+                {
+                    "text": "Thuốc thử Tollens là diaminesilver (I) hydroxide : [Ag(NH₃)₂]OH là thuốc thử dùng để phân biệt Alkene và alkyne.",
+                    "correct": false
+                },
+                {
+                    "text": "O điều kiện thường, tất cả alkene, alkyne (trừ but-2-yne) từ C₄ ở thể khí.",
+                    "correct": false
+                },
+                {
+                    "text": "Công thức tổng quát của alkene là CnH₂n (n ≥ 2) và của alkyne là CnH₂n-2 (n ≥ 2).",
+                    "correct": true
+                }
+            ],
+            "True": "T"
+        },
+        {
+            "Q": "Khối lượng chlorobenzene thu được khi cho 23,4 gam benzene tác dụng với Cl₂ (tỉ lệ mol 1:1) xúc tác FeCl₃ là bao nhiêu?",
+            "type": "short_answer",
+            "correctAnswer": "26.55 gam",
+            "True": "S"
+        },
+        {
+            "Q": "Cho các chất sau: acetylene, ethane, propane, propyne, but-1-yne, but-2-yne. Có bao nhiêu chất có thể chuyển đổi thành alkene?",
+            "type": "short_answer",
+            "correctAnswer": "2",
+            "True": "S"
+        }
+    ]
+}
